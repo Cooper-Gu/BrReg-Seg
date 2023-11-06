@@ -13,9 +13,9 @@ This code has been trained and inferred with Pytorch 1.13.1 and NVIDIA 3090Ti GP
  # Description
 The BrReg-Seg framework contains two parts of the network, one of which is the unsupervised alignment model ConvNXMorph, and the other is nnUNet-v2. The framework code is now open.
 
-BrRegSeg_2 indicates a network with two channel inputs.
+BrRegSeg_b indicates a network with bi-channel inputs.
 
-BrRegSeg_3 indicates a network with three-channel inputs.
+BrRegSeg_t indicates a network with three-channel inputs.
 
 All codes are open after the paper is accepted.
 
